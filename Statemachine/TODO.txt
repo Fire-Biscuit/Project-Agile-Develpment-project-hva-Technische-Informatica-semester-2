@@ -1,0 +1,6 @@
+-er moet een nao object in de Bussen komen
+-pak kaart functies
+-lees kaart functies met readbarcode event
+-spelbord
+-idle phase moet aan gewerkt worden, (facerecognicion? met event)
+-er moet een start op het spel komen
