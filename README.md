@@ -9,8 +9,7 @@ Jack Zwuup, Maurice Peetoom, Mike Schardijn & Timo Lambregt
 4. [ Program set-up ](#Psu)
 4. [ Game instructions ](#Gain)
 5. [ Usage ](#Usage)
-6. [Contact information](#Ci)
-7. [Sources and documents](Sandd)
+6. [Sources and documents](Sandd)
 
 <a name="desc"></a>
 ## Description
@@ -113,11 +112,6 @@ For every round:
 The state of the card is guessed by the user, the card is than scanned. The robot checks if the card is correct. Adds or subtracts points.
 
 
-
-<a name="Ci"></a>
-
-## Contact information
-Jack Zwuup - @laamronhans@gmail.com
 
 <a name="Sandd"></a>
 ## Sources and documents
