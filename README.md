@@ -112,7 +112,7 @@ For every round:
 
 The state of the card is guessed by the user, the card is than scanned. The robot checks if the card is correct. Adds or subtracts points.
 
-(put PLANT-UML picture of the project here Mike)
+
 
 <a name="Ci"></a>
 
